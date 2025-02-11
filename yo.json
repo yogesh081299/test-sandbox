@@ -1,12 +1,8 @@
 {
-  "keys": [
-    {
-      "kty": "RSA",
-      "kid": "servicenow-epic",
-      "use": "sig",
-      "alg": "RS256",
-      "n": "your-modulus-value",
-      "e": "your-exponent-value"
-    }
-  ]
+    "kty": "RSA",
+    "e": "AQAB",
+    "use": "sig",
+    "kid": "servicenow-epic",
+    "alg": "RS256",
+    "n": "58w5wEVoSAcOMDHLXnbLoO5ZywF5VpenJmEvk8Nfj5dI0ntMZdbThJ3TCvohqjwsa9g5Pz04vrUk_0LsJKoAy1WirRi80UbrDYNNnLTxzluctP6eDj7ArOqSa-lKFNNy7iPEMFEuarjnADBW2grfKCREUUAsNK5PTsoBjHjHoDtSkIgxpa8mzjH6NP1RS_M_BeyPzip7CmZH0BKdS1ClPWWXvULYnb4pJiBQ7DRU9Ks-EkpDVhdcf6emOLCWXYNTdmRyZgfOfNEJeGt1e5SAdazhy_0X7qAX8yS_HhNuZeEUJ3qCTVZo6FwHTf9DDdpwNv4KNEBMxTo28OYct4ae7w"
 }
