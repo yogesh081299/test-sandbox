@@ -1,0 +1,12 @@
+{
+  "keys": [
+    {
+      "kty": "RSA",
+      "kid": "servicenow-epic",
+      "use": "sig",
+      "alg": "RS256",
+      "n": "your-modulus-value",
+      "e": "your-exponent-value"
+    }
+  ]
+}
