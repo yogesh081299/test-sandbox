@@ -1,0 +1,12 @@
+{
+  "keys": [
+    {
+      "kty": "RSA",
+      "e": "AQAB",
+      "use": "sig",
+      "kid": "servicenow-epic",
+      "alg": "RS256",
+      "n": "qyyYmp6xx_W1pVfyJQbjkjsXFShF4sJyL8tSOY_RfwiVubBHoUvUhPly4IphkQu8-zgTx5aBS2j_5n4Ny5uwbMsM5fMwfxrQL6m9DytYUljNuyNzMQiSNlHV1-E9oa-vc_r9o1aSaGcmHeSOGR_CpVOAsXjEl-zAn0QemlJErAH9VK26Kb3EiCVls8aVJ_TDniqja-joMMBapAcQl0QiOyVg-CQ9_te8bSF4Jpzj6PT0Ta-ruHUTrW2bDFTbPyHBDRwVbXf-FRNQ6OqyfKNXW4rPiTo2mJXzjgvofm9tpz0dh5tmHFBIgKxqxofctWWENkfs18fwNuHEPqOfTscdVw"
+    }
+  ]
+}
